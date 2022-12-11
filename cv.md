@@ -1,8 +1,8 @@
 # Name
 Levan Surname
 # Contacts 
-  address: * Tbilisi, Chavchavdze ave.
-  e-mail: * gura7@gmail.com
+  address: *Tbilisi, Chavchavdze ave.*
+  e-mail: *gura7@gmail.com*
 
 # Education 
 Course 1: Microsoft professional 
