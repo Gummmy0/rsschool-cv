@@ -1,14 +1,16 @@
-#Name
+# Name
 Levan Surname
-#Contacts address: *Tbilisi, Chavchavdze ave. 1 e-mail: *gura7@gmail.com
+# Contacts 
+  address: *Tbilisi, Chavchavdze ave.
+  e-mail: *gura7@gmail.com
 
-#Education 
+# Education 
 Course 1: Microsoft professional 
 Course 2: 
 Course 3: 
 
 
-#Skills
+# Skills
 HTML-beginner
 CSS -beginner
 JS frontend- beginner
@@ -16,6 +18,6 @@ NodeJS - beginner
 Java - beginner
 Python-beginner
 
-#Experience
+# Experience
 None
 
